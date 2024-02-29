@@ -858,7 +858,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.248056, -30.8325]
+        "coordinates": [-83.248056, 30.8325]
       },
       "properties": {
         "FacilityName": "Adm Valdosta",
@@ -956,7 +956,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.07639, -42.849682]
+        "coordinates": [-88.07639, 42.849682]
       },
       "properties": {
         "FacilityName": "Advanced Disposal Emerald Park Landfill Llc",
@@ -2258,7 +2258,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-94.2783, -39.103]
+        "coordinates": [-94.2783, 39.103]
       },
       "properties": {
         "FacilityName": "Alliant Llc-lake City Army Ammunition Plant",
@@ -2790,7 +2790,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.809218, -33.956949]
+        "coordinates": [-86.809218, 33.956949]
       },
       "properties": {
         "FacilityName": "American Proteins Incorporated Hanceville Division",
@@ -5436,7 +5436,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.18346, -41.413831]
+        "coordinates": [-88.18346, 41.413831]
       },
       "properties": {
         "FacilityName": "Air Products And Chemicals, Inc. - Joliet, Il H2 Plant",
